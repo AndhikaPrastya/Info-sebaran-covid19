@@ -373,7 +373,7 @@ require_once "config/functions.php";
           Copyright ©
           <script>
             document.write(new Date().getFullYear())
-          </script> andhika budi prasetyo
+          </script> Andhika Prastya
         </div>
         <div class="credits">
           Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
