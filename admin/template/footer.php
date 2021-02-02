@@ -17,7 +17,7 @@ date_default_timezone_set('Asia/Jakarta');
           Copyright ©
           <script>
             document.write(new Date().getFullYear())
-          </script> andhika budi prasetyo
+          </script> Andhika Prastya
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
